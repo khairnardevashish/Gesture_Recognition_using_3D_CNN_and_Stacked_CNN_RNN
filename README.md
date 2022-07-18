@@ -5,10 +5,10 @@ In this project we are considering a cool feature for a samr-TV which can recogn
 
 Each gesture corresponds to a specific command:
 
--Thumbs up:  Increase the volume
--Thumbs down: Decrease the volume
--Left swipe: 'Jump' backwards 10 seconds
--Right swipe: 'Jump' forward 10 seconds  
+-Thumbs up:  Increase the volume \n
+-Thumbs down: Decrease the volume \n
+-Left swipe: 'Jump' backwards 10 seconds \n
+-Right swipe: 'Jump' forward 10 seconds \n
 -Stop: Pause the movie
 
 Each video is a sequence of 30 frames (or images) and we want to train model which can identigy the gesture for new video or action.
